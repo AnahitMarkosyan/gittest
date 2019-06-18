@@ -31,7 +31,7 @@ public class Cakes extends Sweet {
                 cost = getWeght() * 700;
                 break;
         }
-        int x = 5;
+        int x = 77;
         return cost;
     }
 
