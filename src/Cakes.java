@@ -32,7 +32,7 @@ public class Cakes extends Sweet {
                 break;
         }
         int x = 77;
-        int y = 81;
+        int y = 33;
         return cost;
     }
 
