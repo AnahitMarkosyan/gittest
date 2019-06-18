@@ -21,6 +21,7 @@ public class Test {
         String secondMax;
         if (str[0].length() > str[1].length()) {
             int a =7;
+            System.out.println(a);
             max = str[0];
             max1 = str[1];
         }
