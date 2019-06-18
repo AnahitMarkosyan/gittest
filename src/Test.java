@@ -20,7 +20,7 @@ public class Test {
         String max1 = str[0];
         String secondMax;
         if (str[0].length() > str[1].length()) {
-            System.out.println(5);
+            int a =7;
             max = str[0];
             max1 = str[1];
         }
